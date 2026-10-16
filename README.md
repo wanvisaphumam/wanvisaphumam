@@ -12,7 +12,7 @@
 
 ## 🎀 About Me
 
-- Bachelor's in **Computer Science** at **Thammasat University** 🏫
+- Bachelor's in **Computer Science** at **Thammasat University**
 - EMAIL: `pm.wanvisa@gmail.com`
 
 ---
