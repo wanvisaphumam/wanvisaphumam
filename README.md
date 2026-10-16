@@ -4,7 +4,7 @@
 
 ✨ *Computer Science student* ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=wanvisaphumam&label=Visitors&color=ffb6c1&style=flat-square)
+**SID: 6909617885**
 
 </div>
 
